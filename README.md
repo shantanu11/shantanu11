@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shantanu
-- 👀 I’m interested in exploring data field
-- 🌱 I’m currently learning SQL & Python
+- 👀 I’m an analytics leader with 10+years of experience in e-commerce & retail domain, project management, product implementation, vendor & people management
+- 🌱 I’m currently building Data Science & analytics teams
 - 📫 You can reach out to me via LinkedIN - https://www.linkedin.com/in/shantanu-prakash-63a44021/
 
 
